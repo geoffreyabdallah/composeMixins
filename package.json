@@ -1,0 +1,25 @@
+{
+  "name": "composeMixins",
+  "version": "0.0.0",
+  "description": "A function to create higher order mixin components for React ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabdallah222/composeMixins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabdallah222/composeMixins/issues"
+  },
+  "homepage": "https://github.com/gabdallah222/composeMixins",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23"
+  }
+}
